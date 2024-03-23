@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshani Tripathi</h1>
 <h3 align="center">A passionate MERN Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*F4t8-xz-b98ZcvEH.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanitripathi&label=Profile%20views&color=0e75b6&style=flat" alt="darshanitripathi" /> </p>
 
